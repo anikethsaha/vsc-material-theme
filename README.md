@@ -79,7 +79,7 @@ Launch *Quick Open*:
 Type `material theme`, choose `Material Theme: Set accent color`, and pick one color from the list.
 
 
-## Override theme colors
+## 1. Override theme colors
 You can override the Material Theme UI and schemes colors by adding these theme-specific settings to your configuration. For advanced customisation please check the [relative section on the VS Code documentation](https://code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme).
 
 ### Color Scheme override
